@@ -20,6 +20,17 @@ body {
   box-shadow: none;
 }
 
-.footer {
+.ui.center.aligned.equal.width.grid.container {
+  color: white !important;
   line-height: 20px;
+}
+
+.footer {
+  background-color: #3171B8 !important;
+  margin-top: 10px;
+}
+
+.ui.myMelody.container {
+  background-color: #EAF7FF !important;
+  padding: 10px;
 }
